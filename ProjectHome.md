@@ -1,0 +1,1 @@
+This guide will take you throw setting up a raspberry pi with pidora, hosting an ftp server, hosting an Apache web server, and having a daemon that will take pictures of a connected camera every x seconds and store y pictures at a time.
